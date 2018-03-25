@@ -1,0 +1,6 @@
+GIF optimizer
+http://ruder.io/optimizing-gradient-descent/
+
+Tensorboard
+https://www.youtube.com/watch?v=ySIbZBNpgFc
+
